@@ -1,0 +1,17 @@
+#include "./stdin"
+#include "./proc"
+#include "./net"
+#include "./sys"
+#include "./log"
+
+bpftrace(8) - tracing language
+pidstat(8)  - report statistics for tasks
+strace(1)   - trace system calls and signals
+mpstat(1)   - report processors related statistics
+iostat(1)   - report cpu stats and i/o stats for devices and partitions
+vmstat(8)   - report virtual memory statistics
+time(1)     - run programs and summarize resource usage
+pmap(1)     - report memory map of a process
+free(1)     - display amount of free and user memory in the system
+lsof(8)     - list open files
+sar(1)      - collect, report, or save system activity information

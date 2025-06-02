@@ -1,0 +1,29 @@
+traceroute6(1) - print the route packets trace to a network host
+traceroute(1)  - print the route packets trace to a network host
+hostname(1)    - show or set the system's host name
+ifconfig(8)    - configure a network interface
+nslookup(1)    - query internet name servers interactively
+iptables(8)    - admin tool for ipv[46] packet filtering and NAT
+tcpdump(8)     - dump traffic on a network
+ethtool(8)     - query or control network driver and hardware settings
+netstat(8)     - network statistics
+openssl(1ssl)  - OpenSSH command line program
+bridge(8)      - show / manipulate bridge addresses and devices
+telnet(1)      - user interface to the TELNET protocol
+ping6(8)       - send ICMP ECHO_REQUEST to network hosts
+wget(1)        - the non-interactive network downloader
+curl(1)        - transfer a URL
+ping(8)        - send ICMP ECHO_REQUEST to network hosts
+host(1)        - DNS lookup utility
+sftp(1)        - OpenSSH secure file transfer
+scp(1)         - OpenSSH secure file copy
+ftp(1)         - internet file transfer program
+ssh(1)         - OpenSSH remote login client
+ufw(8)         - program for managing a netfilter firewall
+mtr(8)         - a network diagnostic tool
+dig(1)         - DNS lookup utility
+arp(8)         - manipulate the system ARP cache
+ip(1)          - manipulate routing, network devices, interfaces, and tunnels
+ss(8)          - another utility to investigate sockets
+nc(1)          - arbitrary TCP and UDP connections and listens
+tc(8)          - show / manipulate traffic control settings

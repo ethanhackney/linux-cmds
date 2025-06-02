@@ -1,0 +1,6 @@
+expr(1) - evaluate expressions
+yacc(1) - parser generator
+lex(1)  - lexical analyser generator
+sed(1)  - stream editor for filtering and transforming text
+awk(1)  - pattern scanning and text processing language
+bc(1)   - an arbitrary precision calculator language

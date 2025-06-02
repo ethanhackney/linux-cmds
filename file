@@ -1,0 +1,5 @@
+#include "./fs"
+#include "./stdin"
+
+file(1) - determine file type
+dd(1)   - convert a copy a file

@@ -1,0 +1,6 @@
+#include "./net"
+
+lsblk(8) - list block devices
+lscpu(1) - display information about the CPU architecture
+lspci(8) - list all PCI devices
+lsusb(8) - list USB devices

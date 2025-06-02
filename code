@@ -1,0 +1,7 @@
+#include "*"
+
+ctags(1) - generate tag files for source code
+patch(1) - apply a diff file to an original
+make(1)  - utility to maintain groups of programs
+cc(1)    - c compiler
+ld(1)    - linker

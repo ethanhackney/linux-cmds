@@ -1,0 +1,10 @@
+#include "./fs"
+
+whoami(1) - print effective userid
+newgrp(1) - log in to a new group
+passwd(1) - change user password
+login(1)  - begin session on the system
+sudo(8)   - execute a command as another user
+who(1)    - show who is logged on
+env(1)    - run a program in a modified environment
+w(1)      - show who is logged on and what they are doing

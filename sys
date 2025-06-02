@@ -1,0 +1,6 @@
+shutdown(8) - halt, power-off or reboot the machine
+findmnt(8)  - find a filesystem
+locale(1)   - get locale-specific information
+uptime(1)   - tell how long the system has been running
+uname(1)    - print system information
+date(1)     - print or set the system date and time

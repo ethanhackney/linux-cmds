@@ -1,0 +1,6 @@
+#include "./stdin"
+
+objdump(1) - display information from object files
+strings(1) - print the sequences of printable characters in files
+strip(1)   - discard symbols and other data from object files
+nm(1)      - list symbols from object files

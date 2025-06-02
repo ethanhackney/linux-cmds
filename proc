@@ -1,0 +1,9 @@
+pstree(1) - display a tree of processes
+renice(1) - alter priority of running processes
+fuser(1)  - identify processes using files or sockets
+pgrep(1)  - search for processes
+kill(1)   - send a signal to a process
+chrt(1)   - manipulate the real-time attributes of a process
+nice(1)   - run a program with modified scheduling priority
+top(1)    - display processes
+ps(1)     - report a snapshot of the current processes

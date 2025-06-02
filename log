@@ -1,0 +1,4 @@
+journalctl(1) - query the systemd journal
+logrotate(8)  - rotates, compresses, and mails system logs
+logger(1)     - enter messages into the system log
+dmesg(1)      - print or control the kernel ring buffer

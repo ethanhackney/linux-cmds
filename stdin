@@ -1,0 +1,30 @@
+#include "./lang"
+
+unexpand(1) - convert spaces to tabs
+csplit(1)   - split a file into sections determined by context lines
+expand(1)   - convert tabs to spaces
+xargs(1)    - build and execute command lines from standard input
+paste(1)    - merge lines of files
+split(1)    - split a file into pieces
+tsort(1)    - perform topological sort
+grep(1)     - print lines that match patterns
+less(1)     - opposite of more
+head(1)     - output the first part of files
+tail(1)     - output the last part of files
+sort(1)     - sort lines of text files
+uniq(1)     - report or omit repeated lines
+diff(1)     - compare files line by line
+comm(1)     - compare two sorted files line by line
+fold(1)     - wrap each input line to fit in specified width
+join(1)     - join lines of two files on a common field
+cmp(1)      - compare two files byte by byte
+cat(1)      - concatenate files and print on the standard output
+tee(1)      - read from standard input and write to standard output and files
+sed(1)      - stream editor for filtering and transforming text
+cut(1)      - remove sections from each line of files
+awk(1)      - pattern scanning and text processing language
+tr(1)       - translate or delete characters
+wc(1)       - print newline, word, and byte counts for each file
+nl(1)       - number of lines of files
+od(1)       - dump files in octal and other formats
+du(1)       - estimate file space usage
